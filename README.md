@@ -24,10 +24,10 @@ En la industria de las telecomunicaciones, la cancelación de suscripciones (*Cu
 | Integrante | División |
 | :--- | :---: |
 | **Pazos, Nahuel Rodrigo** | 143 |
+| **Pérez Figueira, Joaquín** | 143 |
 | **Haddad, Joaquín** | 143 |
 | **Petri, Valentin** | 143 |
 | **Morales, Ignacio** | 143 |
-
 ---
 
 ## Principales Resultados
